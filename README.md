@@ -1,10 +1,6 @@
-## Goal
+## CLIMA app
 
-The objective of this tutorial is to learn about asynchronous programming in Dart. We'll look at how to carry out time consuming tasks such as getting device location and networking to get data from the internet. 
-
-## What you will create
-
-We’re going to make a weather app that is able to find out the live weather data in the current location of the device.
+This is a weather app that is able to find out the live weather data in the current location of the device.
 
 ## What I learned
 
